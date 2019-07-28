@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TrabRodolfo</string>
+    <string-array name="Rifles">
+        <item>AKM</item>
+        <item>M416</item>
+        <item>M16A4</item>
+        <item>Scar-L</item>
+        <item>Groza</item>
+        <item>AUG</item>
+        <item>QBZ</item>
+        <item>Beryl M762</item>
+        <item>Mk47 Mutant</item>
+        <item>G36C</item>
+    </string-array>
+</resources>
